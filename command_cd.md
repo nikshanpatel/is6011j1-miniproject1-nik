@@ -2,4 +2,4 @@
 This command is used to change directory 
 Example : cd DockerHomework
 will change the directory to DockerHomework
-![CD Image](./cd.png)
+![CD Image](/cd.PNG)
