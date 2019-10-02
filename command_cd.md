@@ -1,4 +1,4 @@
 1. cd : change directory 
 This command is used to change directory 
-
-REMOVE THIS LINE.
+Example : cd DockerHomework
+will change the directory to DockerHomework
