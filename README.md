@@ -7,6 +7,3 @@ will change the directory to DockerHomework
 
 2. mkdir : make directory
 This command creates a new directory
-
-
-THIS IS THE LINE TO BE REMOVED....
