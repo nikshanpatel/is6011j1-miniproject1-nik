@@ -1,5 +1,3 @@
-1. cd : change directory 
-This command is used to change directory 
-Example : cd DockerHomework
-will change the directory to DockerHomework
+1. cd command — an abbreviation for ‘**c**hange **d**irectory'.
+You can change the working directory using the cd command
 ![CD Image](/cd.PNG)
