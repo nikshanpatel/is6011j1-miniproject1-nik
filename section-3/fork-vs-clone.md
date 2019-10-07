@@ -6,15 +6,12 @@ A fork is a copy of a repository that allows you to freely experiment with chang
 
 Forking a project is as easy as clicking the  **Fork**  button in the header of a repository. Once the process is complete, you'll be taken right to your the forked copy of the project so you can start collaborating!
 
-### Example:
-
-Forking a repository is a simple two-step process. We've created a repository for you to practice with!
-
-1.  On GitHub, navigate to the  [[nikshanpatel](https://github.com/nikshanpatel)/**[is6011j1-miniproject1-nik](https://github.com/nikshanpatel/is6011j1-miniproject1-nik)**] repository.
-2.  In the top-right corner of the page, click  **Fork**.
-    
-    ![Fork button](/section-3/fork-vs-clone.png)
-    
+> ### Example:
+>Forking a repository is a simple two-step process. We've created a repository for you to practice with!
+>1.  On GitHub, navigate to the  [[nikshanpatel](https://github.com/nikshanpatel)/**[is6011j1-miniproject1-nik](https://github.com/nikshanpatel/is6011j1-miniproject1-nik)**] repository.
+>2.  In the top-right corner of the page, click  **Fork**.
+>
+  >  ![Fork button](/section-3/fork-vs-clone.png)   
 
 That's it! Now, you have a  _fork_  of the original **_nikshanpatel/is6011j1-miniproject1-nik_** repository.
 
