@@ -31,18 +31,18 @@ She is responsible for explaining the commands and gives example(s) usage for us
 ### SECOND SECTION: *(🙍🏻‍♂️Chen Ye)*  
 He is responsible for explaining the [gitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)  workflow and have a section to define and give examples of how to use the following Git commands and terminology:
 
->- [ ] [Repository](/repository.md)
->- [ ] [Clone](/clone.md)
->- [ ] [Fork](/fork.md)
->- [ ] [Branch](/branch.md)
->- [ ] [Commit](/commit.md)
->- [ ] [Merge](/merge.md)
->- [ ] [Checkout](/checkout.md)
->- [ ] [Push](/push.md)
->- [ ] [Pull](/pull.md)
->- [ ] [Remote Add / Remove / Show](/remote.md)
->- [ ] [Status](/status.md)
->- [ ] [Master Branch](/master_branch.md)
+>- [x] [Repository](/repository.md)
+>- [x] [Clone](/clone.md)
+>- [x] [Fork](/fork.md)
+>- [x] [Branch](/branch.md)
+>- [x] [Commit](/commit.md)
+>- [x] [Merge](/merge.md)
+>- [x] [Checkout](/checkout.md)
+>- [x] [Push](/push.md)
+>- [x] [Pull](/pull.md)
+>- [x] [Remote Add / Remove / Show](/remote.md)
+>- [x] [Status](/status.md)
+>- [x] [Master Branch](/master_branch.md)
 
 ---
 ### THIRD SECTION: *(🧔🏽Nikshan Patel)*  
