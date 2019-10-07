@@ -5,4 +5,5 @@ Repository is like a folder for your project. Your project's repository conta
 
 How to use: go to your own github account, click 'New' to create an new repository.
 
-![Image of New Repository]()
+![Image of New Repository](/images/new repository.png)
+
