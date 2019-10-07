@@ -10,9 +10,9 @@ Each member is responsible for answering these 3 main key questions:
      2. Why do you do it?
      3. How do you do it?
 
-> - [Snehlata Singh](/README.md#first-section--snehlata-singh)
-> - [Chen Ye](/README.md#second-section-%EF%B8%8Fchen-ye)
-> - [Nikshan Patel](/README.md#third-section-nikshan-patel)
+> - [**Snehlata Singh**](/README.md#first-section--snehlata-singh)
+> - [**Chen Ye**](/README.md#second-section-%EF%B8%8Fchen-ye)
+> - [**Nikshan Patel**](/README.md#third-section-nikshan-patel)
 
 ---
 
