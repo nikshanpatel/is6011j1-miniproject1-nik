@@ -1,3 +1,5 @@
-6. The rm command deletes files and directories.
+6. rm:
 
-For example rm touch.txt will remove the file **touch.txt** from the filesystem.
+The **rm** command **deletes** files and directories.
+
+For example **rm touch.txt** will remove the file **touch.txt** from the filesystem.
