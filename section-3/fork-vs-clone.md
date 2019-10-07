@@ -7,3 +7,12 @@ A fork is a copy of a repository that allows you to freely experiment with chang
 Forking a project is as easy as clicking the  **Fork**  button in the header of a repository. Once the process is complete, you'll be taken right to your the forked copy of the project so you can start collaborating!
 
 Check out our  [help article](https://help.github.com/articles/fork-a-repo) for more information about forking, including steps on how to keep your fork synced up with the original project.
+
+**Cloning**
+
+When you create a new repository on GitHub, it exists as a  [remote](https://help.github.com/articles/about-remote-repositories) location where your project is stored. You can clone your repository to create a local copy on your computer so that you can sync between both the local and remote locations of the project.
+
+Unlike forking, you won't be able to pull down changes from the original repository you cloned from, and if the project is owned by someone else you won't be able to contribute back to it unless you are specifically invited as a [collaborator](https://help.github.com/articles/permission-levels-for-a-user-account-repository). Cloning is ideal for instances when you need a way to quickly get your own copy of a repository where you may not be contributing to the original project.
+
+To clone a repository, head over to the main page of a project and click the _Clone or download_ button to get the the repository's HTTPS or SSH URL. Then, you can perform the clone using the `git clone` command in your command line interface of choice. For a step by step guide, check out the [cloning a repository](https://help.github.com/articles/cloning-a-repository/) article.
+
