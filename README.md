@@ -23,7 +23,7 @@ She is responsible for explaining the commands and gives example(s) usage for us
 >- [x] [mkdir](/command_mkdir.md)
 >- [x] [cp](/command_cp.md)
 >- [x] [pwd](/command_pwd.md)
->- [x] [ls](/command_vi.md)
+>- [x] [vi](/command_vi.md)
 >- [x] [mv](/command_mv.md)
 >- [x] [rm](/command_rm.md)
 >- [x] [history](/command_history.md)
