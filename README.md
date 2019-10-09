@@ -54,4 +54,4 @@ He is responsible for creating a step by step tutorial that explains how to set 
 
 >- [x] [Forking vs Cloning](/section-3/fork-vs-clone.md)
 >- [x] [Pull Request](/section-3/pull-request.md)
->- [ ] [Adding a collaborator to a Github Repo.](/)
+>- [x] [Adding a collaborator to a Github Repo.](/section-3/add_collaborators.md)
