@@ -53,5 +53,5 @@ He is responsible for explaining the [gitFlow](https://datasift.github.io/gitflo
 He is responsible for creating a step by step tutorial that explains how to set up Git and work collaboratively with more than one person. He also explain the concept of branching and how to use branches to avoid merge conflicts, the tutorial also illustrate how to create a merge conflict and resolve the merge conflict.
 
 >- [x] [Forking vs Cloning](/section-3/fork-vs-clone.md)
->- [ ] [Pull Request](/)
+>- [x] [Pull Request](/section-3/pull-request.md)
 >- [ ] [Adding a collaborator to a Github Repo.](/)
