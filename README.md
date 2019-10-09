@@ -14,6 +14,8 @@ Each member is responsible for answering these 3 main key questions:
 > - [**Chen Ye**](/README.md#second-section-%EF%B8%8Fchen-ye)
 > - [**Nikshan Patel**](/README.md#third-section-nikshan-patel)
 
+<img src="/section-3/images/Nikshan.jpeg" width="65" height="65"/>
+
 ---
 
 ### FIRST SECTION: *(👩🏽‍🦰 Snehlata Singh)* 
