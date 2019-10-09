@@ -12,7 +12,7 @@ Each member is responsible for answering these 3 main key questions:
 
 > - [**Snehlata Singh**](/README.md#first-section--snehlata-singh)
 > - [**Chen Ye**](/README.md#second-section-%EF%B8%8Fchen-ye)
-> - [**Nikshan Patel**](/README.md#third-section-nikshan-patel)
+> - [**Nikshan Patel**](/README.md#third-section----nikshan-patel)
 
 ---
 
