@@ -5,5 +5,5 @@ Repository is like a folder for your project. Your project's repository conta
 
 How to use: go to your own github account, click 'New' to create an new repository.
 
-![Image of New Repository](https://github.com/nikshanpatel/is6011j1-miniproject1-nik/blob/master/new_epository.png)
+![Image of New Repository](/new_epository.png)
 
