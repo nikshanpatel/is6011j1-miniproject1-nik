@@ -8,11 +8,11 @@ Pull requests are proposed changes to a repository submitted by a user and accep
     
 2.  In the "Branch" menu, choose the branch that contains your commits.
     
-    <img src="/section-3/images/branch-dropdown.png" width="215" height="163"/>
+    <img src="/section-3/images/branch-dropdown.png" width="430" height="326"/>
     
 3.  To the right of the Branch menu, click  **New pull request**.
     
-    ![Pull Request button](/section-3/images/new-pull-request.png)
+    <img src="/section-3/images/new-pull-request.png" width="429" height="222"/> 
     
 4.  Use the  _base_  branch dropdown menu to select the branch you'd like to merge your changes into, then use the  _compare_  branch drop-down menu to choose the topic branch you made your changes in.
     
