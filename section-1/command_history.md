@@ -6,4 +6,4 @@ commands instead of retyping them.
 
 Below screenshot is an example of history command:
 
-![history.Image](/history.PNG)
+![history.Image](/section-2/history.PNG)

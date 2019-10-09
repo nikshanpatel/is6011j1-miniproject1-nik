@@ -1,4 +1,4 @@
-# **Mini Project # 1 for IS 601-1J1 - Web Development** #
+# **Mini Project # 1 for IS 601-1J1 - Web Development**
 
 ## **Project Overview**
 
@@ -19,34 +19,34 @@ Each member is responsible for answering these 3 main key questions:
 ### FIRST SECTION: *(👩🏽‍🦰 Snehlata Singh)* 
 She is responsible for explaining the commands and gives example(s) usage for use  [Vi](https://en.wikipedia.org/wiki/Vi)  to create and edit files on Linux and the basic commands that you need to manage the file system:
 
->- [x] [cd](/command_cd.md)   
->- [x] [mkdir](/command_mkdir.md)
->- [x] [cp](/command_cp.md)
->- [x] [pwd](/command_pwd.md)
->- [x] [vi](/command_vi.md)
->- [x] [mv](/command_mv.md)
->- [x] [rm](/command_rm.md)
->- [x] [history](/command_history.md)
->- [x] [Home directory and ~](/command_homedir.md)
->- [x] [file paths in linux](/command_filepath.md)
->- [x] [Using the tab key to complete file paths](/command_tabkey.md)
->- [x] [Using up and down arrow for history](/command_updownarrow.md)
+>- [x] [cd](/section-1/command_cd.md)   
+>- [x] [mkdir](/section-1/command_mkdir.md)
+>- [x] [cp](/section-1/command_cp.md)
+>- [x] [pwd](/section-1/command_pwd.md)
+>- [x] [vi](/section-1/command_vi.md)
+>- [x] [mv](/section-1/command_mv.md)
+>- [x] [rm](/section-1/command_rm.md)
+>- [x] [history](/section-1/command_history.md)
+>- [x] [Home directory and ~](/section-1/command_homedir.md)
+>- [x] [file paths in linux](/section-1/command_filepath.md)
+>- [x] [Using the tab key to complete file paths](/section-1/command_tabkey.md)
+>- [x] [Using up and down arrow for history](/section-1/command_updownarrow.md)
 ---
 ### SECOND SECTION: *(🙍🏻‍♂️Chen Ye)*  
 He is responsible for explaining the [gitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)  workflow and have a section to define and give examples of how to use the following Git commands and terminology:
 
->- [x] [Repository](/repository.md)
->- [x] [Clone](/clone.md)
->- [x] [Fork](/fork.md)
->- [x] [Branch](/branch.md)
->- [x] [Commit](/commit.md)
->- [x] [Merge](/merge.md)
->- [x] [Checkout](/checkout.md)
->- [x] [Push](/push.md)
->- [x] [Pull](/pull.md)
->- [x] [Remote Add / Remove / Show](/remote.md)
->- [x] [Status](/status.md)
->- [x] [Master Branch](/master_branch.md)
+>- [x] [Repository](/section-2/repository.md)
+>- [x] [Clone](/section-2/clone.md)
+>- [x] [Fork](/section-2/fork.md)
+>- [x] [Branch](/section-2/branch.md)
+>- [x] [Commit](/section-2/commit.md)
+>- [x] [Merge](/section-2/merge.md)
+>- [x] [Checkout](/section-2/checkout.md)
+>- [x] [Push](/section-2/push.md)
+>- [x] [Pull](/section-2/pull.md)
+>- [x] [Remote Add / Remove / Show](/section-2/remote.md)
+>- [x] [Status](/section-2/status.md)
+>- [x] [Master Branch](/section-2/master_branch.md)
 
 ---
 ### THIRD SECTION: *(<img src="/section-3/images/Nikshan.jpeg" width="32" height="32"/> - Nikshan Patel)*  
