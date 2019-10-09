@@ -8,7 +8,7 @@ Pull requests are proposed changes to a repository submitted by a user and accep
     
 2.  In the "Branch" menu, choose the branch that contains your commits.
     
-    ![Branch dropdown menu](/section-3/images/branch-dropdown.png)
+    <img src="/section-3/branch-dropdown.png" width="215" height="163"/>
     
 3.  To the right of the Branch menu, click  **New pull request**.
     
