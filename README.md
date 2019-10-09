@@ -14,8 +14,6 @@ Each member is responsible for answering these 3 main key questions:
 > - [**Chen Ye**](/README.md#second-section-%EF%B8%8Fchen-ye)
 > - [**Nikshan Patel**](/README.md#third-section-nikshan-patel)
 
-<img src="/section-3/images/Nikshan.jpeg" width="65" height="65"/>
-
 ---
 
 ### FIRST SECTION: *(👩🏽‍🦰 Snehlata Singh)* 
@@ -51,7 +49,7 @@ He is responsible for explaining the [gitFlow](https://datasift.github.io/gitflo
 >- [x] [Master Branch](/master_branch.md)
 
 ---
-### THIRD SECTION: *(🧔🏽Nikshan Patel)*  
+### THIRD SECTION: *(<img src="/section-3/images/Nikshan.jpeg" width="32" height="32"/> - Nikshan Patel)*  
 He is responsible for creating a step by step tutorial that explains how to set up Git and work collaboratively with more than one person. He also explain the concept of branching and how to use branches to avoid merge conflicts, the tutorial also illustrate how to create a merge conflict and resolve the merge conflict.
 
 >- [x] [Forking vs Cloning](/section-3/fork-vs-clone.md)
