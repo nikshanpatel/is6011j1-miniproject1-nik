@@ -55,3 +55,23 @@ He is responsible for creating a step by step tutorial that explains how to set 
 >- [x] [Forking vs Cloning](/section-3/fork-vs-clone.md)
 >- [x] [Pull Request](/section-3/pull-request.md)
 >- [x] [Adding a collaborator to a Github Repo.](/section-3/add_collaborators.md)
+
+#### FOURTH SECTION: Update for the mini project 2
+update mini-project 1 with definitions and examples of the following terms:
+
+1. How Python uses Indentation to control Flow
+2. Don't Repeat Yourself
+3. Design Patterns from Gang of Four
+4. Class
+5. Object
+6. Static
+7. Property / Attribute
+8. Method
+9. Exception
+10. Unit Test
+11. Constructor
+12. Factory
+13. Decorator
+14. Extend Class
+15. CSV Files
+16. Reading Files
