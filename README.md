@@ -56,8 +56,9 @@ He is responsible for creating a step by step tutorial that explains how to set 
 >- [x] [Pull Request](/section-3/pull-request.md)
 >- [x] [Adding a collaborator to a Github Repo.](/section-3/add_collaborators.md)
 
-#### FOURTH SECTION: Update for the mini project 2
-update mini-project 1 with definitions and examples of the following terms:
+#### FOURTH SECTION: *(👩🏽‍🦰 Snehlata Singh)* 
+**Update for the mini project 2**
+Update mini-project 1 with definitions and examples of the following terms:
 
 1. How Python uses Indentation to control Flow
 2. Don't Repeat Yourself
