@@ -58,6 +58,7 @@ He is responsible for creating a step by step tutorial that explains how to set 
 
 #### FOURTH SECTION: *(👩🏽‍🦰 Snehlata Singh)* 
 **Update for the mini project 2**
+
 Update mini-project 1 with definitions and examples of the following terms:
 
 1. How Python uses Indentation to control Flow
