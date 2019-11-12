@@ -1,4 +1,4 @@
-6. **Object:**
+5. **Object:**
 
 Objects are Python’s abstraction for data. All data in a Python program is represented by objects or by relations between objects. 
 Every object has an identity, a type and a value. So, everything in Python is an object. Lists are objects. 42 is an object. Modules are objects. Functions are objects. Python bytecode is also kept in an object. All of these have types and unique IDs.
