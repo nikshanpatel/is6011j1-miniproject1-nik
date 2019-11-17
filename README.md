@@ -1,3 +1,4 @@
+
 # **Mini Project # 1 for IS 601-1J1 - Web Development**
 
 ## **Project Overview**
@@ -61,19 +62,19 @@ He is responsible for creating a step by step tutorial that explains how to set 
 
 Update mini-project 1 with definitions and examples of the following terms:
 
-1. How Python uses Indentation to control Flow
-2. Don't Repeat Yourself
-3. Design Patterns from Gang of Four
-4. Class
-5. Object
-6. Static
-7. Property / Attribute
-8. Method
-9. Exception
-10. Unit Test
-11. Constructor
-12. Factory
-13. Decorator
-14. Extend Class
-15. CSV Files
-16. Reading Files
+>- [x] [How Python uses Indentation to control Flow](/section-4/indentation.md)
+>- [x] [Don't Repeat Yourself](/section-4/dry.md)
+>- [x] [Design Patterns from Gang of Four](/section-4/designpattern.md)
+>- [x] [Class](/section-4/class.md)
+>- [x] [Object](/section-4/object.md)
+>- [x] [Static](/section-4/static.md)
+>- [x] [Property / Attribute](/section-4/propertyatribute.md)
+>- [x] [Method](/section-4/method.md)
+>- [x] [Exception](/section-4/exception.md)
+>- [x] [Unit Test](/section-4/unittest.md)
+>- [x] [Constructor](/section-4/constructor.md)
+>- [x] [Factory](/section-4/factory.md)
+>- [x] [Decorator](/section-4/decorator.md)
+>- [x] [Extend Class](/section-4/extendclass.md)
+>- [x] [CSV Files](/section-4/csvfiles.md)
+>- [x] [Reading Files](/section-4/readingfiles.md)
